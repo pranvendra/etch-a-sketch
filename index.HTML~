@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<script type="text/javascript" src="script.js"></script>
+<title>Etch-a-sketch</title>
+
+<script type="text/javascript">
+
+function change()
+	{
+
+		b=document.getElementByClassName="square";
+		b.style.backgroundColor="#ffffff";
+
+
+	}
+
+
+</script>
+</head>
+
+<body>
+	<div class="square" onmouseover="change()"></div>
+	
+	
+
+</body>
+
+
+</html>
+
